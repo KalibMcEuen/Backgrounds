@@ -27,7 +27,7 @@ dreamscapespace https://imgur.com/gallery/sci-fi-gaming-wallpapers-100-upload-1-
   
 ### Github
   
-a_graphic_of_a_staircase.jpg https://github.com/dharmx/walls/blob/main/nord/a_graphic_of_a_staircase.jpg  
+a_graphic_of_a_staircase https://github.com/dharmx/walls/blob/main/nord/a_graphic_of_a_staircase.jpg  
 
 ### Reddit
   
